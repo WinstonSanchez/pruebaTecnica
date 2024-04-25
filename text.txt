@@ -1,0 +1,43 @@
+
+];
+
+$habilidades = [
+[
+"imagen" => "images/codingIcon.jpg",
+"titulo" => "Coding:"
+"institucion" => "HTML/CSS/PHP/SQL/React Native/Java",
+],
+[
+"imagen" => "images/pencilIcon.jpg",
+"titulo" => "Edición de imagen-video-audio:"
+"institucion" => "Photoshop/Sony Vegas/FL Studio",
+],
+[
+"imagen" => "images/languageIcon.jpg",
+"titulo" => "Idiomas:"
+"institucion" => "Inglés (Intermedio)<br>Italiano/Alemán (Básico)",
+]
+];
+
+$habilidades = [
+[
+"imagen" => "images/readingIcon.jpg",
+"institucion" => "Lectura de libros y comics",
+],
+[
+"imagen" => "images/pianoIcon.jpg",
+"institucion" => "Piano",
+],
+[
+"imagen" => "images/cookingIcon.jpg",
+"institucion" => "Cocina",
+]
+];
+
+Teniendo en cuenta los anteriores arrays, se requiere lo siguiente:
+
+-  Se debe agregar a todos los arrays un campo que contendrá el nombre de la categoría del array
+-  Se debe ordenar por fechas o por nombre según aplique
+-  Se debe mostrar los registros en una vista con apariencia de Currículum Vitae
+-  Tenga en cuenta desarrollar el ejercicio en la arquitectura Model View Controller (MVC)
+-  Incluya este proyecto a su repositorio GitHub o GitLab
